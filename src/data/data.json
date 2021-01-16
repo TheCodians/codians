@@ -1,0 +1,119 @@
+{
+    "Header": {
+
+        "title": "The Codians",
+        "paragraph": "The Codians has been enabling customers to stay one step ahead of the competition by combining our strategic vision with leading technology."
+
+    },
+    "About": {
+        "paragraph": "It all started with a vision to bring Technology that benifits every Individuals, as well as Business Professionals from all fields to promote and express themselves. With growing popularity and demands of services for daily life activities, the need to add spectrum of services to its list was on the cards. Infinitysis stepped into diversification of services and Software Development with Integrated Solutions. The organization leverages dedicated Excellence Team, a Flexible Delivery Model, and a strong track record of building Collaborative Client Partnerships (yeah, we remember your anniversaries too…) to create sustainable Business Advantage for Organizations.",
+        "Why": [            
+           "Agility",
+            "Quality",
+            "Integrity",
+            "Courtesy"
+        ],
+        "Why2": [
+            "Innovation",
+            "Accountability",
+            "Professionalism",
+            "Collective Strength"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Web Technology",
+            "text": "Helps our partners to quickly unlock the values now-a-days being created at the Convergence of the Physical and Digital Worlds through the Integrated Business Solutions and Digital Enhancement."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Cloud Services",
+            "text": "We work with you to establish the appropriate Cloud size and available resources for your Business to stay one step ahead of the competition by combining our Strategic Vision with Leading Technology."
+        },
+        {
+            "icon": "fa fa-briefcase",
+            "name": "Support & Maintainance",
+            "text": "We set up and maintain your Organization's Software, and help troubleshoot and maintain it. We are available to consult with you and your staff, when problems arises with your Software or System."
+        }
+    ],
+
+    "Statements": [{
+            "img": "img/team/01.jpg",
+            "name": "Vision",
+            "job": "To put our end clients and their needs at the core of everything we do.To put the serving Academia Family at the centre of our work and support staff in full, where capacity allows. To strive for excellence in the quality of our Products, Innovations and Technical Support."
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mission",
+            "job": "To provide timely and effective Enterprise Solutions and support for our Academia Family, in order to improve their Business Health and Financial Wellbeing. By outsourcing your IT Management to us, you can focus on what you do best - running your Business."
+        }, 
+        {
+            "img": "img/team/03.jpg",
+            "name": "Core Values",
+            "job": "Providing Integrated Information Technology and Knowledge Process Solutions spanning the entire lifecycle of Business Information Systems and Processes. Each service offered is tailor made to the requirement and taste of our clients and their day to day challenges."
+        }
+    ],
+    "Contact": {
+        "address": "Shop No. 2, Keswad Premises, Sutarwadi, Post Ambadvet, Taluka Mulshi, District Pune - 412 115. Maharashtra (INDIA)",
+        "phone": "+91 992 340 7307",
+        "email": "info@thecodians.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "linkedin": "linkedin.com"
+    },
+
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ],
+
+    "Testimonials": [{
+        "img": "img/testimonials/01.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+    },
+    {
+        "img": "img/testimonials/02.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+    },
+    {
+        "img": "img/testimonials/03.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+    },
+    {
+        "img": "img/testimonials/04.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+    },
+    {
+        "img": "img/testimonials/05.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+    },
+    {
+        "img": "img/testimonials/06.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+    }
+]
+
+}
